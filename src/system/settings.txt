@@ -1,0 +1,7 @@
+# folders
+images /images
+sounds /sounds
+system /system
+
+preview true
+columnStandard 1

@@ -1,0 +1,12 @@
+A-Dur
+A-Dur.jpg
+A-Dur.wav
+B-Dur/H-Dur
+B-Dur.jpg
+B-Dur.wav
+C-Dur
+C-Dur.jpg
+C-Dur.wav
+D-Dur
+D-Dur.jpg
+D-Dur.wav
